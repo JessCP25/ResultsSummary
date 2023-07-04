@@ -203,3 +203,13 @@ button:hover{
         width: 375px;
     }
 }
+
+@media(max-width: 374px){
+    .card-result{
+        width: 320px;
+    }
+
+    .card-summary{
+        width: 320px;
+    }
+}
